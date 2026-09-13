@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=System+Design+%7C+HLD+%7C+LLD;Scalable+Backend+Architecture;Microfrontends+%7C+PostgreSQL+%7C+Redis;Building+SaaS+%26+Cloud-Native+Products;MERN+Stack+Developer;Currently+Building+CloudVault" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=React.js+%7C+Frontend+Development+%7C+Next.js;Node.js+%7C+Backend+Development+%7C+REST+APIs;System+Design+%7C+HLD+%7C+LLD;Microfrontends+%7C+PostgreSQL+%7C+Redis;Scalable+Frontend+%26+Backend+Architecture;Building+SaaS+%26+Cloud-Native+Products;MERN+Stack+Developer+%7C+Currently+Building+CloudVault" />
 </p>
 
 
