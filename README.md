@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Senior%20Full%20Stack%20Developer&fontColor=white&fontSize=45&fontAlignY=38&desc=React.js%20%7C%20Node.js%20%7C%20TypeScript%20%7C%20Next.js%20%7C%20AWS%20%7C%20Serverless&descAlignY=58&descSize=18&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Senior%20Full%20Stack%20Developer&fontColor=white&fontSize=45&fontAlignY=40&desc=React.js%20%7C%20Node.js%20%7C%20TypeScript%20%7C%20Next.js%20%7C%20AWS%20%7C%20Serverless&descAlignY=62&descSize=18&animation=fadeIn" />
 </p>
 
 <p align="center">
