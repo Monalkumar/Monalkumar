@@ -2,10 +2,11 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=201&section=header"/>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Senior+Full+Stack+Developer;React.js+%7C+Node.js+%7C+TypeScript;Next.js+%7C+AWS+%7C+Serverless;System+Design+%7C+HLD+%7C+LLD;Building+Scalable+SaaS+Products" alt="Typing SVG" />
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Senior%20Full%20Stack%20Developer&fontColor=white&fontSize=45&fontAlignY=38&desc=React.js%20%7C%20Node.js%20%7C%20TypeScript%20%7C%20Next.js%20%7C%20AWS%20%7C%20Serverless&descAlignY=58&descSize=18&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=System+Design+%7C+HLD+%7C+LLD;Scalable+Backend+Architecture;Microfrontends+%7C+PostgreSQL+%7C+Redis;Building+SaaS+%26+Cloud-Native+Products;Currently+Building+CloudVault" />
 </p>
 
 
