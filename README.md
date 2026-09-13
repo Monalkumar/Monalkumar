@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Monal Kumar
+#👨‍💻Hi, I'm Monal Kumar
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Senior+Full+Stack+Developer;React.js+%7C+Node.js+%7C+TypeScript;Next.js+%7C+AWS+%7C+Serverless;System+Design+%7C+HLD+%7C+LLD;Building+Scalable+SaaS+Products" alt="Typing SVG" />
